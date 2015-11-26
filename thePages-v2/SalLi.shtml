@@ -1,0 +1,21 @@
+<!--#include file="header.html" -->
+<div align="center"> <font color="#660000" size="+2">
+	<table width="50%" align="center" >
+		<td valign="top" align="center" bgcolor="#ffcc99">
+			<blockquote>
+				<font color="#660000" size="+1" face="Arial Rounded MT">
+				<!-- Enter title of image-->
+				Sal Li of the Green				<br>
+				<!-- Enter alternate name of image and the file name-->
+				<img alt="Sal Li of the Green"
+				src="http://www.thecityofkothos.com/SalLiImages/Sal%20Li.gif"
+				width="500" height="647" border="10">
+				</font>
+				</font><font color="#cc6600"><br>
+Mistress and Batar of the Land, she is the recognized leader of the Green Clan in all maters.  She represents the Green Clan on the Inner Council of Kothos in all matters related to the city.  She is a graduate with the Highest Honors from the Academy of Martial Arts.  She took the post as leader of the Green Clan when her mother died as it is an inherited position.
+				</font></small></font></small></font></font><br>
+			</blockquote>
+		</td>
+	</table>
+</div>
+<!--#include file="footer.html" -->

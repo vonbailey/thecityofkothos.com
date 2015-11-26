@@ -1,0 +1,40 @@
+<!--#include file="header.html" -->
+<div align="center"> <font color="#660000" size="+2">
+	<table width="50%" align="center" >
+		<td valign="top" align="center" bgcolor="#ffcc99">
+			<blockquote>
+				<font color="#660000" size="+1" face="Arial Rounded MT">
+				<!-- Enter title of image-->
+				Princess Tuppa Tu
+				<br>
+				<!-- Enter alternate name of image and the file name-->
+				<img alt="Princess Tuppa Tu"
+				src="http://www.thecityofkothos.com/TuppaImages/TuppaTu_wBackground.jpg"
+				width="500" height="647" border="10">
+				</font>
+				</font>
+					<blockquote>
+					<font color="#cc6600"><br>
+					  <font color="#993300"><small><font size="+1"><small><font
+						face="Arial Rounded MT">Princess
+						Tuppa Tu, Second Born Daughter of
+						Queen Balla Tu.&nbsp; The Pricess
+						was born during the floods of the
+						seventh season of the Reign of Balla
+						Tu.&nbsp; The pricess was born with
+						eyes of blue.&nbsp; Because of this,
+						many predicted her birth was an omen
+						that the powers of Karpa were to be
+						strong in the future.This had proved
+						to be true when, soon after, Batuma
+						Kan, First Lady of the Blue, became
+						a very powerful priestess in the
+						city and the new leader of the Blue
+						Clan.&nbsp; But the powers of Karpa
+						also pulsed strong in the veins of
+						the young princess.</font></small></font></small></font></font><br>
+					</blockquote>
+		</td>
+	</table>
+</div>
+<!--#include file="footer.html" -->

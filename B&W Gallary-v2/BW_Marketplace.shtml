@@ -1,0 +1,12 @@
+<!--#include file="bwArtHeader.html"-->
+	<div align="center">
+	<font face="Arial Rounded MT" size="+3">
+	<i>Kothian Market Stall</i>
+	</font>
+  <div align="center">
+	<img alt="Kothian Market Stall"
+	  src="http://www.thecityofkothos.com/GallaryBW/BW_Images/marketPlace.GIF"
+	  vspace="5" width="800" align="middle"
+	  height="589"><br>
+  </div>
+<!--#include file="bwArtFooter.html"-->

@@ -1,0 +1,24 @@
+<!--#include file="header.html" -->
+<div align="center"> <font color="#660000" size="+2">
+	<table width="50%" align="center" >
+		<td valign="top" align="center" bgcolor="#ffcc99">
+			<blockquote>
+				<font color="#660000" size="+1" face="Arial Rounded MT">
+				<!-- Enter title of image-->
+				Cleophi Tan
+				<br>
+				<!-- Enter alternate name of image and the file name-->
+				<img alt="Cleophi Tan"
+				src="http://www.thecityofkothos.com/CleophiImages/Cleophi_Color.jpg"
+				width="850" height="571" border="10">
+				</font>
+				</font><font color="#cc6600"><br>
+				<!-- Enter the image related to the image.  i.e. if the image is Batuma Kan, what do you want to say about her?-->
+				<font color="#993300"><small><font size="+1"><small><font face="Arial Rounded MT">
+				Cleophi Tan, Second in Command of the Green Temple, Head Batar of the Academy of Martial Arts, Batar of the 3rd Calvary..
+				</font></small></font></small></font></font><br>
+			</blockquote>
+		</td>
+	</table>
+</div>
+<!--#include file="footer.html" -->

@@ -1,0 +1,6 @@
+  <div align="center"><br>
+	<img alt="Palace Grounds"
+	  src="http://www.thecityofkothos.com/GallaryBW/BW_Images/RoyalPalace.jpg"
+	  vspace="90" width="800" align="middle"
+	  height="589"><br>
+  </div>

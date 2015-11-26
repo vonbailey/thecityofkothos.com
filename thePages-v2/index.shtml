@@ -1,0 +1,10 @@
+<!--#include file="h_header.html" -->
+<div align="center"> <font color="#660000" size="+2"
+face="Arial Rounded MT">
+The Kothian Peninsula</font><br>
+<br>
+<font color="#660000"><img alt="Kothian Penninsula"
+src="http://www.thecityofkothos.com/homepageImages/Kothos%20Map-Color.jpg"
+width="1100" height="688" border="10"><br>
+</font></div>
+<!--#include file="footer.html" -->

@@ -1,0 +1,11 @@
+<!--#include file="header.html" -->
+<div align="center"> <font color="#660000" size="+2">
+	<table width="50%" align="center" >
+		<td valign="top" align="center" bgcolor="#ffcc99">
+			<blockquote>
+				
+			</blockquote>
+		</td>
+	</table>
+</div>
+<!--#include file="footer.html" -->

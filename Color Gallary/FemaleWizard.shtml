@@ -1,0 +1,9 @@
+    <!--#include file="ColorArtHeader.html"-->
+    <div align="center"><br>
+      <font size="+2" face="Arial Rounded MT"> Female Wizard </font>
+      <img alt="Female Wizard"
+        src="http://www.thecityofkothos.com/GallaryColor/Color_Images/Female%20Wizard.jpg" vspace="90" width="500"
+        align="middle" height="889"><br>
+    </div>
+    <!--#include file="ColorArtFooter.html"-->
+

@@ -1,0 +1,28 @@
+<!--#include file="header.html" -->
+<div align="center"> <font color="#660000" size="+2">
+	<table width="50%" align="center" >
+		<td valign="top" align="center" bgcolor="#ffcc99">
+			<blockquote>
+				<font color="#660000" size="+1" face="Arial Rounded MT">
+				<!-- Enter title of image-->
+				First Lady of the Blue, Batuama Kan
+				<br>
+				<!-- Enter alternate name of image and the file name-->
+				<img alt="First Lady of the Blue, Batuama Kan"
+				src="http://www.thecityofkothos.com/BatumaKanImages/Batuma%20Kan.jpg"
+				width="500" height="647" border="10">
+				</font>
+				</font><font color="#cc6600"><br>
+				<!-- Enter the image related to the image.  i.e. if the image is Batuma Kan, what do you want to say about her?-->
+				<font color="#993300"><small><font size="+1"><small><font face="Arial Rounded MT">
+				Head Priestess of Karpa and Mistress of the Blue, she is the recognized leader of 
+				the Blue Clan in all matters.  She represents the Blue Clan on the Inner Council 
+				of Kothos in all matters related to the city.  She is a Mistress of the Highest 
+				Order in all 7 disciplines of the Blue Temple.  She was elected to the post 15 
+				seasons past and has successfully held it against all challengers.
+				</font></small></font></small></font></font><br>
+			</blockquote>
+		</td>
+	</table>
+</div>
+<!--#include file="footer.html" -->

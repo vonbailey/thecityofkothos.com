@@ -1,0 +1,12 @@
+<!--#include file="bwArtHeader.html"-->
+	<div align="center">
+	<font face="Arial Rounded MT" size="+3">
+	<i>The Assassin's Weapon</i>
+	</font>
+  <div align="center">
+	<img alt="The Assassin's Weapon"
+	  src="http://www.thecityofkothos.com/GallaryBW/BW_Images/murderWeapon.gif"
+	  vspace="5" width="500" align="middle"
+	  height="628"><br>
+  </div>
+<!--#include file="bwArtFooter.html"-->

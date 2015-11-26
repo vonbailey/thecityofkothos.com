@@ -1,0 +1,12 @@
+<!--#include file="bwArtHeader.html"-->
+	<div align="center">
+	<font face="Arial Rounded MT" size="+3">
+	<i>Cat Making a Delivery</i>
+	</font>
+  <div align="center">
+	<img alt="Cat making a delivery"
+	  src="http://www.thecityofkothos.com/GallaryBW/BW_Images/catBag.GIF"
+	  vspace="5" width="530" align="middle"
+	  height="635"><br>
+  </div>
+<!--#include file="bwArtFooter.html"-->

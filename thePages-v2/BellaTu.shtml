@@ -1,0 +1,24 @@
+<!--#include file="header.html" -->
+<div align="center"> <font color="#660000" size="+2">
+	<table width="50%" align="center" >
+		<td valign="top" align="center" bgcolor="#ffcc99">
+			<blockquote>
+				<font color="#660000" size="+1" face="Arial Rounded MT">
+				<!-- Enter title of image-->
+				Queen Bella Tu
+				<br>
+				<!-- Enter alternate name of image and the file name-->
+				<img alt="Queen Bella Tu"
+				src="http://www.thecityofkothos.com/BellaImages/BellaTu.jpg"
+				width="500" height="647" border="10">
+				</font>
+				</font><font color="#cc6600"><br>
+				<!-- Enter the image related to the image.  i.e. if the image is Batuma Kan, what do you want to say about her?-->
+				<font color="#993300"><small><font size="+1"><small><font face="Arial Rounded MT">
+				Bella Tu was the first born of Balla Tu, and born in the fifth season of her mother's reign.  Bella Tu favored studying politics, military tactics and economics.  She coined the phrase "A ruler must be able to make a treaty, kill an enemy and make the land rich, anything else is vanity."  Before starting, what was known after as the Empire Wars, she was known to favor diplomacy as a method of dealing with the other cities of what is now the Kothian peninsula.  But a treaty and what some call a timely assassination gave her a navy and the ability to expand Kothian influence far further than her mother ever dreamed.
+				</font></small></font></small></font></font><br>
+			</blockquote>
+		</td>
+	</table>
+</div>
+<!--#include file="footer.html" -->

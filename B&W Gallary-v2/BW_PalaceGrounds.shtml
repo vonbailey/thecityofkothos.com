@@ -1,0 +1,12 @@
+<!--#include file="bwArtHeader.html"-->
+	<div align="center">
+	<font face="Arial Rounded MT" size="+3">
+	<i>Palace Grounds</i>
+	</font>
+  <div align="center">
+	<img alt="Palace Grounds"
+	  src="http://www.thecityofkothos.com/GallaryBW/BW_Images/RoyalPalace.jpg"
+	  vspace="5" width="800" align="middle"
+	  height="589"><br>
+  </div>
+<!--#include file="bwArtFooter.html"-->

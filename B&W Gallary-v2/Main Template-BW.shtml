@@ -1,0 +1,11 @@
+<!--#include file="bwArtHeader.html"-->
+  <div align="center"><br>
+	<font face="Arial Rounded MT" size="+2">
+	Enter title of Image
+	</font>
+	<img alt="Alternate Name for Image"
+	  src="Where the Image URL Goes"
+	  vspace="90" width="800" align="middle"
+	  height="589"><br>
+  </div>
+<!--#include file="bwArtFooter.html"-->
